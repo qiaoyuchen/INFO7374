@@ -1,5 +1,5 @@
 # INFO7374
-Group members:
-Byron Kiriibwa        
+Group 6 members:
+Byron Kiriibwa      
 Xuewen Xu
-Yuchen Qiao 
+Yuchen Qiao
